@@ -1,7 +1,6 @@
-# Project Net Worth
+# Networthify
 
-## Project Description
-Project Net Worth a is desktop application that **tracks users' personal finances**. The application will be able to
+Networtify a is desktop application that **tracks users' personal finances**. The application will be able to
 take user inputs to keep track of their monthly income and expenses and net worth. Additionally, the application should 
 be able to summarize their financial data so that users can make informed decisions based on their historical financial
 data. 
