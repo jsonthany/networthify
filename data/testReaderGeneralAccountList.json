@@ -1,0 +1,47 @@
+{"users": [{
+    "BS": {
+        "otherAssets": 0,
+        "mortgage": 0,
+        "otherLiabilities": 0,
+        "netWorth": 575,
+        "realEstate": 0,
+        "investments": 0,
+        "creditCard": 0,
+        "cash": 575
+    },
+    "pass": "password",
+    "id": 1,
+    "user": "jason",
+    "ISList": [
+        {
+            "totalEarnings": 300,
+            "year": 2020,
+            "totalExpenses": 85,
+            "rent": 20,
+            "subscriptionExp": 10,
+            "food": 5,
+            "nettEarnings": 215,
+            "oneOffEarnings": 200,
+            "recurringEarnings": 100,
+            "month": 1,
+            "otherExp": 25,
+            "groceries": 10,
+            "leisure": 15
+        },
+        {
+            "totalEarnings": 500,
+            "year": 2021,
+            "totalExpenses": 140,
+            "rent": 12,
+            "subscriptionExp": 31,
+            "food": 42,
+            "nettEarnings": 360,
+            "oneOffEarnings": 100,
+            "recurringEarnings": 400,
+            "month": 2,
+            "otherExp": 23,
+            "groceries": 20,
+            "leisure": 12
+        }
+    ]
+}]}

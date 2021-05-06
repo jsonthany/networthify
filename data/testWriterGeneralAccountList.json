@@ -1,0 +1,16 @@
+{"users": [{
+    "BS": {
+        "otherAssets": 0,
+        "mortgage": 0,
+        "otherLiabilities": 0,
+        "netWorth": 0,
+        "realEstate": 0,
+        "investments": 0,
+        "creditCard": 0,
+        "cash": 0
+    },
+    "pass": "password",
+    "id": 1,
+    "user": "jason",
+    "ISList": []
+}]}

@@ -1,0 +1,266 @@
+{"users": [
+    {
+        "BS": {
+            "otherAssets": 0,
+            "mortgage": 0,
+            "otherLiabilities": 0,
+            "netWorth": 3,
+            "realEstate": 0,
+            "investments": 0,
+            "creditCard": 0,
+            "cash": 3
+        },
+        "pass": "password",
+        "id": 1,
+        "user": "jasonthany",
+        "ISList": [{
+            "totalEarnings": 5,
+            "year": 2020,
+            "totalExpenses": 2,
+            "rent": 1,
+            "subscriptionExp": 0,
+            "food": 0,
+            "nettEarnings": 3,
+            "oneOffEarnings": 2,
+            "recurringEarnings": 3,
+            "month": 2,
+            "otherExp": 0,
+            "leisure": 0,
+            "groceries": 1
+        }]
+    },
+    {
+        "BS": {
+            "otherAssets": 0,
+            "mortgage": 0,
+            "otherLiabilities": 0,
+            "netWorth": 0,
+            "realEstate": 0,
+            "investments": 0,
+            "creditCard": 0,
+            "cash": 0
+        },
+        "pass": "123456",
+        "id": 1,
+        "user": "dora",
+        "ISList": []
+    },
+    {
+        "BS": {
+            "otherAssets": 0,
+            "mortgage": 0,
+            "otherLiabilities": 0,
+            "netWorth": 0,
+            "realEstate": 0,
+            "investments": 0,
+            "creditCard": 0,
+            "cash": 0
+        },
+        "pass": "thisuser",
+        "id": 1,
+        "user": "testUserOne",
+        "ISList": []
+    },
+    {
+        "BS": {
+            "otherAssets": 0,
+            "mortgage": 0,
+            "otherLiabilities": 0,
+            "netWorth": 0,
+            "realEstate": 0,
+            "investments": 0,
+            "creditCard": 0,
+            "cash": 0
+        },
+        "pass": "password",
+        "id": 1,
+        "user": "jaymasu",
+        "ISList": []
+    },
+    {
+        "BS": {
+            "otherAssets": 1000,
+            "mortgage": 1500000,
+            "otherLiabilities": 0,
+            "netWorth": 226172,
+            "realEstate": 150000,
+            "investments": 0,
+            "creditCard": 0,
+            "cash": 1575172
+        },
+        "pass": "password",
+        "id": 1,
+        "user": "username",
+        "ISList": [
+            {
+                "totalEarnings": 1100,
+                "year": 2000,
+                "totalExpenses": 24,
+                "rent": 12,
+                "subscriptionExp": 2,
+                "food": 0,
+                "nettEarnings": 1076,
+                "oneOffEarnings": 100,
+                "recurringEarnings": 1000,
+                "month": 1,
+                "otherExp": 0,
+                "leisure": 0,
+                "groceries": 10
+            },
+            {
+                "totalEarnings": 5432,
+                "year": 2000,
+                "totalExpenses": 1635,
+                "rent": 22,
+                "subscriptionExp": 334,
+                "food": 23,
+                "nettEarnings": 3797,
+                "oneOffEarnings": 5432,
+                "recurringEarnings": 0,
+                "month": 2,
+                "otherExp": 90,
+                "leisure": 55,
+                "groceries": 1111
+            },
+            {
+                "totalEarnings": 2355231,
+                "year": 2001,
+                "totalExpenses": 784932,
+                "rent": 784932,
+                "subscriptionExp": 0,
+                "food": 0,
+                "nettEarnings": 1570299,
+                "oneOffEarnings": 2345231,
+                "recurringEarnings": 10000,
+                "month": 1,
+                "otherExp": 0,
+                "leisure": 0,
+                "groceries": 0
+            }
+        ]
+    },
+    {
+        "BS": {
+            "otherAssets": 0,
+            "mortgage": 500000,
+            "otherLiabilities": 0,
+            "netWorth": 8865,
+            "realEstate": 500000,
+            "investments": 1000,
+            "creditCard": 2000,
+            "cash": 9865
+        },
+        "pass": "password",
+        "id": 1,
+        "user": "abcd",
+        "ISList": [
+            {
+                "totalEarnings": 10000,
+                "year": 2021,
+                "totalExpenses": 2350,
+                "rent": 1000,
+                "subscriptionExp": 50,
+                "food": 800,
+                "nettEarnings": 7650,
+                "oneOffEarnings": 0,
+                "recurringEarnings": 10000,
+                "month": 4,
+                "otherExp": 0,
+                "leisure": 200,
+                "groceries": 300
+            },
+            {
+                "totalEarnings": 7000,
+                "year": 2021,
+                "totalExpenses": 4785,
+                "rent": 2130,
+                "subscriptionExp": 120,
+                "food": 1200,
+                "nettEarnings": 2215,
+                "oneOffEarnings": 2000,
+                "recurringEarnings": 5000,
+                "month": 5,
+                "otherExp": 12,
+                "leisure": 1203,
+                "groceries": 120
+            }
+        ]
+    },
+    {
+        "BS": {
+            "otherAssets": 0,
+            "mortgage": 700000,
+            "otherLiabilities": 0,
+            "netWorth": -379600,
+            "realEstate": 300000,
+            "investments": 5000,
+            "creditCard": 4000,
+            "cash": 19400
+        },
+        "pass": "password",
+        "id": 1,
+        "user": "user123",
+        "ISList": [
+            {
+                "totalEarnings": 12000,
+                "year": 2021,
+                "totalExpenses": 2300,
+                "rent": 1250,
+                "subscriptionExp": 50,
+                "food": 200,
+                "nettEarnings": 9700,
+                "oneOffEarnings": 2000,
+                "recurringEarnings": 10000,
+                "month": 4,
+                "otherExp": 300,
+                "leisure": 200,
+                "groceries": 300
+            },
+            {
+                "totalEarnings": 14000,
+                "year": 2021,
+                "totalExpenses": 4300,
+                "rent": 2000,
+                "subscriptionExp": 100,
+                "food": 800,
+                "nettEarnings": 9700,
+                "oneOffEarnings": 4000,
+                "recurringEarnings": 10000,
+                "month": 5,
+                "otherExp": 300,
+                "leisure": 700,
+                "groceries": 400
+            }
+        ]
+    },
+    {
+        "BS": {
+            "otherAssets": 0,
+            "mortgage": 700000,
+            "otherLiabilities": 0,
+            "netWorth": -392500,
+            "realEstate": 300000,
+            "investments": 3000,
+            "creditCard": 5000,
+            "cash": 9500
+        },
+        "pass": "password",
+        "id": 1,
+        "user": "user12345",
+        "ISList": [{
+            "totalEarnings": 12500,
+            "year": 2021,
+            "totalExpenses": 3000,
+            "rent": 1200,
+            "subscriptionExp": 300,
+            "food": 800,
+            "nettEarnings": 9500,
+            "oneOffEarnings": 2500,
+            "recurringEarnings": 10000,
+            "month": 4,
+            "otherExp": 0,
+            "leisure": 200,
+            "groceries": 500
+        }]
+    }
+]}
